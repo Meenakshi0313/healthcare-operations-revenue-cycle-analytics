@@ -5,7 +5,7 @@ An end-to-end interactive Excel dashboard designed to evaluate healthcare perfor
 ---
 
 ## 📄 Project Deliverables
-* 📥 **[Download Full Dashboard PDF](Healthcare_Dashboard.pdf)**
+* 📥 **[Download Full Dashboard PDF](Healthcare_Data_Analyst_Dashboard.pdf)**
 
 ---
 
