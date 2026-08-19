@@ -5,7 +5,33 @@ An end-to-end interactive Excel dashboard designed to evaluate healthcare perfor
 ---
 
 ## 📄 Project Deliverables
-* 📥 **[Download Full Dashboard PDF](Healthcare_Data_Analyst_Dashboard.pdf)**
+* 📥 **[Download Full Dashboard PDF](Docs/Healthcare_Data_Analyst_Dashboard.pdf)**
+* 📊 **[Download Master Excel Workbook](Healthcare_Analytics_Dashboard.xlsx)**
+
+---
+
+## 📸 Dashboard Visual Previews
+
+<details>
+<summary>🔍 <b>Click to view Page 1: Executive Overview & Patient Demographics</b></summary>
+<br>
+
+[![Executive Overview](Docs/screenshots/01_Executive_Overview.png)](Docs/screenshots/01_Executive_Overview.png)
+</details>
+
+<details>
+<summary>🔍 <b>Click to view Page 2: Clinical Performance & Treatment Outcomes</b></summary>
+<br>
+
+[![Clinical Performance](Docs/screenshots/02_Clinical_Performance.png)](Docs/screenshots/02_Clinical_Performance.png)
+</details>
+
+<details>
+<summary>🔍 <b>Click to view Page 3: Financial Analytics & Revenue Cycle Management</b></summary>
+<br>
+
+[![Financial Analytics](Docs/screenshots/03_Financial_Analytics.png)](Docs/screenshots/03_Financial_Analytics.png)
+</details>
 
 ---
 
