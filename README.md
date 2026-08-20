@@ -16,21 +16,21 @@ An end-to-end interactive Excel dashboard designed to evaluate healthcare perfor
 <summary>🔍 <b>Click to view Page 1: Executive Overview & Patient Demographics</b></summary>
 <br>
 
-[![Executive Overview](Docs/01_Executive Overview.png)](Docs/01_Executive Overview.png)
+[![Executive Overview](Docs/01_Executive_Overview.png)](Docs/01_Executive_Overview.png)
 </details>
 
 <details>
 <summary>🔍 <b>Click to view Page 2: Clinical Performance & Treatment Outcomes</b></summary>
 <br>
 
-[![Clinical Performance](Docs/02_Clinical Performance.png)](Docs/02_Clinical Performance.png)
+[![Clinical Performance](Docs/02_Clinical_Performance.png)](Docs/02_Clinical_Performance.png)
 </details>
 
 <details>
 <summary>🔍 <b>Click to view Page 3: Financial Analytics & Revenue Cycle Management</b></summary>
 <br>
 
-[![Financial Analytics](Docs/03_Financial Analytics.png)](Docs/03_Financial Analytics.png)
+[![Financial Analytics](Docs/03_Financial_Analytics.png)](Docs/03_Financial_Analytics.png)
 </details>
 
 ---
